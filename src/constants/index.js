@@ -19,10 +19,10 @@ export const fs = {
     children: [1, 2, 3, 4, 5, 6]
   },
   1: {
-    name: "apps",
+    name: "demo",
     id: 1,
 
-    path: "root/apps",
+    path: "root/demo",
     parentPath: "root/",
     type: "folder",
     parent: 0,
